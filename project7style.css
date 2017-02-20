@@ -1,4 +1,27 @@
-h1 {
-  text-align: center;
-  color: blue;
+#mainheadline{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+.place-description{
+    font-family: Verdana;
+    color: olive;
+}
+.person-description{
+    text-align:center;
+    color: purple;
+}   
+h2{
+    text-align: center;
+}
+.top-favorite{ 
+    font-weight: bold;
+    color: red;
+}
+.important-point{
+    text-decoration: underline;
+
+}
+.emphasis{
+    font-style: italic;
 }
